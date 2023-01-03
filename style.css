@@ -1,4 +1,50 @@
-h1{
-    font-size: px;
+
+#table1{
+    padding: 10px;
     text-align: center;
+    border: 5px solid red;
+    border-radius: 10px;
+    
+}
+.abs {
+display: inline-table;
+}
+.ghous-mwf{
+    background-color: coral;
+}
+.ghous-tts{
+    background-color: rgb(232, 173, 152);
+}
+.iqra-ts{
+    background-color: cornflowerblue;
+}
+.hira-qurt{
+    background-color: cyan;
+}
+.ishaq1{
+    background-color: darkolivegreen;
+}
+.haider{
+    background-color: chartreuse;
+}
+.r-b{
+    background-color: deeppink;
+}
+.ishaq2{
+    background-color: bisque;
+}
+.ishaq3{
+    background-color: rgb(64, 190, 236);
+}
+.inz{
+    background-color: darkturquoise;
+}
+.bilal{
+    background-color: rgb(115, 223, 115);
+}
+.nadir{
+    background-color: aquamarine;
+}
+.qasim{
+background-color: rgb(196, 235, 182);
 }
