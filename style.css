@@ -1,13 +1,13 @@
 
-#table1{
+#main-div{
     padding: 10px;
     text-align: center;
     border: 5px solid red;
-    border-radius: 10px;
-    
-}
-.abs {
-display: inline-table;
+    border-radius: 10px;    
+}   
+
+#break-time{
+    writing-mode: vertical-lr;
 }
 .ghous-mwf{
     background-color: coral;
